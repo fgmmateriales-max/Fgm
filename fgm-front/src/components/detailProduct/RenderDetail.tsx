@@ -12,7 +12,7 @@ interface IProps {
 export const RenderDetail: React.FC<IProps> = ({ products }) => {
   const { name, images, description, box, dimension, categories } = products;
   const whatsappMessage = `Hola, me gustaría recibir más información sobre el producto "${name}". Me ha interesado y quisiera conocer detalles técnicos, disponibilidad y precio. Muchas gracias.`;
-  const whatsappUrl = `https://wa.me/5493515081452?text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappUrl = `https://wa.me/5493512090623?text=${encodeURIComponent(whatsappMessage)}`;
 
   return (
     <div className="bg-white border border-gray-200 rounded-xl shadow-sm p-4 flex flex-col w-full max-w-sm transition duration-300 hover:shadow-md">

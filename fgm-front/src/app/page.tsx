@@ -31,7 +31,7 @@ const Home: React.FC = async () => {
     <div>
       <TextSlider />
       <Link
-        href="https://wa.me/5493515081452?text=Hola%20quisiera%20hacer%20una%20consulta"
+        href="https://wa.me/5493512090623?text=Hola%20quisiera%20hacer%20una%20consulta"
         target="_blank"
         rel="noopener noreferrer"
         style={{

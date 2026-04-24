@@ -18,7 +18,7 @@ export default async function Page({ params }: { params: Promise<{ id: string }>
     };
 
     const whatsappMessage = `Hola, me gustaría recibir más información sobre el producto "${productoNormalizado.name}". Me ha interesado y quisiera conocer detalles técnicos, disponibilidad y precio. Muchas gracias.`;
-    const whatsappUrl = `https://wa.me/5493515081452?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/5493512090623?text=${encodeURIComponent(whatsappMessage)}`;
     const isBestseller = productoNormalizado.categories?.some((cat: { name: string }) => cat.name === "Más Vendidos");
 
     return (

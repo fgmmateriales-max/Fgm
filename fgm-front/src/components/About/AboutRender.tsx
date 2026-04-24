@@ -69,7 +69,7 @@ export const AboutRender: React.FC = () => {
       </div>
 
       <Link
-        href="https://wa.me/5493515081452?text=Hola%20quisiera%20hacer%20una%20consulta"
+        href="https://wa.me/5493512090623?text=Hola%20quisiera%20hacer%20una%20consulta"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-24 right-6 z-50"
