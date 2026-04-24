@@ -12,7 +12,7 @@ export const RenderBestSeller: React.FC<IProducts> = ({ products }) => {
 
     const handleWhatsAppClick = () => {
         const message = `Hola, me gustaría recibir más información sobre el producto "${name}". Me ha interesado y quisiera conocer detalles técnicos, disponibilidad y precio. Muchas gracias.`;
-        const whatsappUrl = `https://wa.me/5493515081452?text=${encodeURIComponent(message)}`;
+        const whatsappUrl = `https://wa.me/5493512090623?text=${encodeURIComponent(message)}`;
         window.open(whatsappUrl, '_blank');
     };
 

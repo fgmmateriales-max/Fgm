@@ -22,7 +22,7 @@ export default function Footer() {
                         Materiales y soluciones para tu hogar y proyectos.
                     </p>
                     <p>📍 Cruz Espacio, Cordoba</p>
-                    <p>📞 <a href="https://wa.me/5493515081452?text=Hola%2C%20necesito%20hacer%20una%20consulta" target="_blank" rel="noopener noreferrer" className="underline hover:text-green-600 transition">+54 9 351 508 1452</a></p>
+                    <p>📞 <a href="https://wa.me/5493512090623?text=Hola%2C%20necesito%20hacer%20una%20consulta" target="_blank" rel="noopener noreferrer" className="underline hover:text-green-600 transition">+54 9 351 508 1452</a></p>
                     <p>📧 <a href="mailto:fgmmateriales@gmail.com" className="underline hover:text-blue-600 transition">fgmmateriales@gmail.com</a></p>
                 </div>
 
